@@ -1,1 +1,4 @@
-angular.module('directivePractice', []);
+(function() {
+  angular.module('directivePractice', []);
+
+})();
